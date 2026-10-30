@@ -80,5 +80,5 @@ I’m actively looking for opportunities in:
 ## Contact
 - Email: shaikayubabbas@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shaik-ayub-178120320/
-- GitHub: 
+- GitHub: https://github.com/AyubShaikAI
 
