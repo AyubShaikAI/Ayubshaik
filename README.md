@@ -78,7 +78,7 @@ I’m actively looking for opportunities in:
 - AI/ML internship and entry-level positions
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourname
-- GitHub: github.com/yourusername
-- Portfolio: yourportfolio.com
+- Email: shaikayubabbas@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shaik-ayub-178120320/
+- GitHub: 
+
